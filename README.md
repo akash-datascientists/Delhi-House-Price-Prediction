@@ -1,2 +1,2 @@
 # Delhi-House-Price-Prediction
-Predicting the house price regression project in delhi location based on various factors like bedrooms ,bathrooms,area,location.
+In this regression we have predicted the house price project in delhi location based on various factors like area,locality,bedrooms,bathrooms.For the price prediction we have used Decisiontree model which have given the better results.
